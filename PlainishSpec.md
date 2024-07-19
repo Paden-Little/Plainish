@@ -1,0 +1,2 @@
+# Specification for Plainish
+## Text
